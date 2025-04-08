@@ -39,7 +39,7 @@ Ce projet peut ressembler à un modpack dans sa forme initiale, mais dans le fon
 | SecurityCraft | Fournit un système de sécurité avancé : claviers numériques, scanners rétiniens, mines, caméras, portes renforcées. Permet de restreindre l'accès, d’automatiser la défense et de protéger les zones sensibles dans un contexte technique et multi-joueur. | Partagé |
 | Electrodynamics | Base électrique modulaire : machines industrielles, générateurs haute tension, transformateurs, systèmes de câblage réalistes. Sert de socle pour une infrastructure énergétique avancée et interconnectée. | Partagé |
 | Framework | Bibliothèque technique nécessaire au fonctionnement de mods comme Electrodynamics et Ballistix. Ne contient aucun contenu en jeu, mais assure la compatibilité des systèmes. | Partagé |
-| Cloth Config API | Librairie d’interface graphique utilisée par de nombreux mods pour créer des menus de configuration ergonomiques directement en jeu. | Client |
+| Cloth Config API | Librairie d’interface graphique utilisée par de nombreux mods pour créer des menus de configuration ergonomiques directement en jeu. | Partagé |
 | Ballistix | Ajoute des missiles, radars, silos de lancement et systèmes de ciblage. S’intègre aux infrastructures industrielles et énergétiques pour la gestion de la balistique. | Partagé |
 | Ultimate Car | Implémente un système de véhicules fonctionnels avec carburant, moteur, routes, stations-service et mécanique de conduite réaliste. | Partagé |
 | MrCrayfish's Gun **(Unofficial)** | Ajoute des armes à feu modulaires (pistolets, fusils, etc.) avec système de munitions, viseur, rechargement et compatibilité avec des accessoires. | Partagé |
