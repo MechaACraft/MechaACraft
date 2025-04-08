@@ -71,6 +71,7 @@ Ce projet peut ressembler à un modpack dans sa forme initiale, mais dans le fon
 | Controlling | Améliore l’interface de gestion des contrôles clavier : recherche, détection de conflits et tri des raccourcis. | Client |
 | Just Enough Items | Ajoute une interface listant les recettes de craft, de cuisson, et d’utilisation des objets avec moteur de recherche. | Partagé |
 | FerriteCore | Réduit l’utilisation mémoire des mods en optimisant les structures de données des objets, blocs et entités. | Partagé |
+| Simple Rich Discord Presence | Affiche des informations personnalisées sur le statut du joueur dans Discord via le Rich Presence. | Client |
 
 ## Contribuer
 
