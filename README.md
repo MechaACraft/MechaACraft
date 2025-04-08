@@ -18,6 +18,7 @@ Ce projet peut ressembler à un modpack dans sa forme initiale, mais dans le fon
 
 | Dépôt | Description |
 |-------|-------------|
+| [`MechaACraft`](https://github.com/MechaACraft/MechaACraft) | Contient la documentation générale du projet MechaACraft, ainsi que la configuration logique et organisationnelle des modules associés.  |
 | [`MechaACraft-Server`](https://github.com/MechaACraft/MechaACraft-Server) | Contient les fichiers de configuration, le script de démarrage et les paramètres système nécessaires à l’exécution reproductible du serveur. |
 | [`MechaACraft-Client`](https://github.com/MechaACraft/MechaACraft-Client) | Contient le client officiel de MechaACraft, conçu pour être utilisé en conjonction avec le serveur du projet. |
 | [`MechaACraft-Installer`](https://github.com/MechaACraft/MechaACraft-Installer) | Contient l’installeur officiel du projet, permettant l’installation des fichiers client et serveur à partir des dépôts sources. |
