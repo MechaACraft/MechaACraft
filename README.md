@@ -25,6 +25,8 @@ Ce projet peut ressembler à un modpack dans sa forme initiale, mais dans le fon
 
 ## Mods
 
+### Ce tableau présente la liste exhaustive des mods utilisés dans MechaACraft, leur rôle dans l’écosystème du projet, et leur emplacement d’exécution (client, serveur ou partagé).
+
 | Mod | Description | Client / Serveur |
 |-----|-------------|------------------|
 | SecurityCraft | Fournit un système de sécurité avancé : claviers numériques, scanners rétiniens, mines, caméras, portes renforcées. Permet de restreindre l'accès, d’automatiser la défense et de protéger les zones sensibles dans un contexte technique et multi-joueur. | Partagé |
