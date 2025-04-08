@@ -2,6 +2,13 @@
 
 Bienvenue sur le projet **MechaACraft**, un framework Minecraft modulaire dédié à l’automatisation, aux circuits logiques, aux systèmes énergétiques et à l’informatique appliquée.
 
+## Sommaire
+
+- [`Explication`](#explication)
+- [`Structure du projet`](#structure-du-projet)
+- [`Mods`](#mods)
+- [`Contribuer`](#contribuer)
+
 ## Explication
 
 Nous sommes deux passionnés d'informatique, d'électronique, de systèmes logiques et de tout ce qui touche à l’ingénierie technique. L’idée de base de MechaACraft part d’un constat simple : les modpacks existants sont souvent soit surchargés de contenus inutiles (trop de mods), soit trop peu documentés pour être réellement compréhensibles et exploitables.
