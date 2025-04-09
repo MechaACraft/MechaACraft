@@ -80,6 +80,7 @@ Ce projet peut ressembler à un modpack dans sa forme initiale, mais dans le fon
 | Citadel | Bibliothèque de gestion d’entités et d’animations utilisée par d’autres mods. | Partagé |
 | TerraBlender | API de génération de biomes utilisée pour étendre ou modifier la répartition des biomes dans le monde. | Partagé |
 | GlitchCore | Bibliothèque utilitaire fournissant des fonctionnalités internes requises par certains mods. | Partagé |
+| AddonsLib | Bibliothèque commune facilitant le développement de mods modulaires et extensibles. | Partagé |
 
 ## Contribuer
 
