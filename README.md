@@ -78,6 +78,7 @@ Ce projet peut ressembler à un modpack dans sa forme initiale, mais dans le fon
 | Biomes O' Plenty | Ajoute une large gamme de biomes supplémentaires avec leur génération, végétation et blocs dédiés. | Partagé |
 | Macaw's Biomes O' Plenty | Ajoute la compatibilité des blocs Macaw's avec les matériaux de Biomes O' Plenty. | Partagé |
 | Citadel | Bibliothèque de gestion d’entités et d’animations utilisée par d’autres mods. | Partagé |
+| TerraBlender | API de génération de biomes utilisée pour étendre ou modifier la répartition des biomes dans le monde. | Partagé |
 
 ## Contribuer
 
