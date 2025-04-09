@@ -77,6 +77,7 @@ Ce projet peut ressembler à un modpack dans sa forme initiale, mais dans le fon
 | Alex's Mobs | Ajoute de nouvelles créatures terrestres, aquatiques et volantes avec comportements, loots et mécaniques spécifiques. | Partagé |
 | Biomes O' Plenty | Ajoute une large gamme de biomes supplémentaires avec leur génération, végétation et blocs dédiés. | Partagé |
 | Macaw's Biomes O' Plenty | Ajoute la compatibilité des blocs Macaw's avec les matériaux de Biomes O' Plenty. | Partagé |
+| Citadel | Bibliothèque de gestion d’entités et d’animations utilisée par d’autres mods. | Partagé |
 
 ## Contribuer
 
