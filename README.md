@@ -76,6 +76,7 @@ Ce projet peut ressembler à un modpack dans sa forme initiale, mais dans le fon
 | Sound Physics Remastered | Implémente un système acoustique avancé simulant la réverbération, l'atténuation et la propagation réaliste du son dans l'environnement du jeu. | Client |
 | Alex's Mobs | Ajoute de nouvelles créatures terrestres, aquatiques et volantes avec comportements, loots et mécaniques spécifiques. | Partagé |
 | Biomes O' Plenty | Ajoute une large gamme de biomes supplémentaires avec leur génération, végétation et blocs dédiés. | Partagé |
+| Macaw's Biomes O' Plenty | Ajoute la compatibilité des blocs Macaw's avec les matériaux de Biomes O' Plenty. | Partagé |
 
 ## Contribuer
 
