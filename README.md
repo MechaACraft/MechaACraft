@@ -75,6 +75,7 @@ Ce projet peut ressembler à un modpack dans sa forme initiale, mais dans le fon
 | Architectury API | API nécessaire au fonctionnement du mod Simple Rich Discord Presence dans l’environnement Forge. | Client |
 | Sound Physics Remastered | Implémente un système acoustique avancé simulant la réverbération, l'atténuation et la propagation réaliste du son dans l'environnement du jeu. | Client |
 | Alex's Mobs | Ajoute de nouvelles créatures terrestres, aquatiques et volantes avec comportements, loots et mécaniques spécifiques. | Partagé |
+| Biomes O' Plenty | Ajoute une large gamme de biomes supplémentaires avec leur génération, végétation et blocs dédiés. | Partagé |
 
 ## Contribuer
 
