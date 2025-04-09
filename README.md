@@ -74,6 +74,7 @@ Ce projet peut ressembler à un modpack dans sa forme initiale, mais dans le fon
 | Simple Rich Discord Presence | Affiche des informations personnalisées sur le statut du joueur dans Discord via le Rich Presence. | Client |
 | Architectury API | API nécessaire au fonctionnement du mod Simple Rich Discord Presence dans l’environnement Forge. | Client |
 | Sound Physics Remastered | Implémente un système acoustique avancé simulant la réverbération, l'atténuation et la propagation réaliste du son dans l'environnement du jeu. | Client |
+| Architectury API | Ajoute de nouvelles créatures terrestres, aquatiques et volantes avec comportements, loots et mécaniques spécifiques. | Partagé |
 
 ## Contribuer
 
