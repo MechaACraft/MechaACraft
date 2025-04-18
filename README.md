@@ -81,6 +81,7 @@ Ce projet peut ressembler à un modpack dans sa forme initiale, mais dans le fon
 | TerraBlender | API de génération de biomes utilisée pour étendre ou modifier la répartition des biomes dans le monde. | Partagé |
 | GlitchCore | Bibliothèque utilitaire fournissant des fonctionnalités internes requises par certains mods. | Partagé |
 | AddonsLib | Bibliothèque commune facilitant le développement de mods modulaires et extensibles. | Partagé |
+| Simple Planes | Ajoute des avions pilotables avec carburant, mécanique de vol simple et support redstone. | Partagé |
 
 ## Contribuer
 
